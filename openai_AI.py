@@ -8,7 +8,7 @@ print('This an AI configure by Mostafizur Rahman and powered by OpenAI.')
 Query = input('Ask me a question: ')
 
 
-openai.api_key = ("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")
+openai.api_key = ("sk-")
 response = openai.Completion.create(
   engine="text-davinci-002",
     prompt=Query,
