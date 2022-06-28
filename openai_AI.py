@@ -1,4 +1,3 @@
-import os
 import openai
 
 print('This an AI configure by Mostafizur Rahman and powered by OpenAI.')
